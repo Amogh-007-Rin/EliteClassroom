@@ -7,7 +7,7 @@
 [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)](https://expressjs.com/)
 [![Prisma](https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white)](https://www.prisma.io/)
 
-EliteClassroom-v2 is an open-source online tutoring platform that connects students with qualified tutors. Built with modern web technologies, it provides a seamless experience for booking sessions, managing profiles, and conducting virtual classes.
+EliteClassroom is an open-source online tutoring platform that connects students with qualified tutors. Built with modern web technologies, it provides a seamless experience for booking sessions, managing profiles, and conducting virtual classes.
 
 ## Features
 
@@ -54,7 +54,7 @@ EliteClassroom-v2 is an open-source online tutoring platform that connects stude
 ## Project Structure
 
 ```
-EliteClassroom-v2/
+EliteClassroom/
 ├── execution.md                 # Project requirements and specifications
 ├── package.json                 # Root package.json
 ├── project-stage.txt            # Current project status and notes
@@ -124,8 +124,8 @@ Before running the project, ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Amogh-007-Rin/EliteClassroom-v2.git
-   cd EliteClassroom-v2
+   git clone https://github.com/Amogh-007-Rin/EliteClassroom.git
+   cd EliteClassroom
    ```
 
 2. **Set up the backend**:
